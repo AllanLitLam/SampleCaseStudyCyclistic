@@ -27,15 +27,17 @@ To convert casual riders into annual members, we can create a tiered discount pl
 
 Proposed Discount Structure:
 
-Tier 1: Casual riders who have logged a cumulative ride time of 77 minutes or more in a year are eligible for a 7% discount on a new annual membership.
+   Tier 1: Casual riders who have logged a cumulative ride time of 77 minutes or more in a year are eligible for a 7% discount on a new annual membership.
 
-Tier 2: To further incentivize long-distance riders, an additional 1% discount can be awarded for every 30 minutes of cumulative ride time beyond the initial 77 minutes, up to a maximum discount of 10%. This cap ensures the profitability of the plan.
+   Tier 2: To further incentivize long-distance riders, an additional 1% discount can be awarded for every 30 minutes of cumulative ride time beyond the initial 77 minutes, up to a maximum discount of 10%. This cap ensures the profitability of the plan.
 
 This campaign is specifically designed to target the most valuable segment of casual riders, especially those who already use the service for longer trips. While casual riders, as a group, take fewer trips than members (average of 71,526 total trips for all casuals vs. 720,313 for all members), this plan focuses on capturing their unique, high-value behavior: the extended ride. Limiting the total number of rides aggregated for a single customer for this campaign (e.g., to a reasonable personal cap) will ensure it remains a program for casuals and not a loophole for members.
 
-Pros1: This campaign targets high-value casual riders who already use Cyclistic frequently and have found value in those purchased trips. They are more likely to be converted to annual members than riders who do not use the app as much. 
-Cons1: This program may incentivize existing members to cancel their membership and rejoin later at the discounted rate. This risk could be mitigated by implementing a waiting period for former members to rejoin at a discounted rate or by restricting the campaign to new sign-ups only.
-Cons2: Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior we've identified in high-value casuals. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
+**Pros1:** This campaign targets high-value casual riders who already use Cyclistic frequently and have found value in those purchased trips. They are more likely to be converted to annual members than riders who do not use the app as much. 
+
+**Cons1:** This program may incentivize existing members to cancel their membership and rejoin later at the discounted rate. This risk could be mitigated by implementing a waiting period for former members to rejoin at a discounted rate or by restricting the campaign to new sign-ups only.
+
+**Cons2:** Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior we've identified in high-value casuals. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
 
 ---
 
