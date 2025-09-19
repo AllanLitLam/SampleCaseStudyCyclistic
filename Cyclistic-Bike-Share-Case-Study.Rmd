@@ -107,7 +107,7 @@ Q1_summary = Q1_agg_trimmed %>%
 ggplot(data = Q1_summary, aes(x= usertype, y= mean_ride_length_min, fill = usertype)) + 
   geom_col() + 
   geom_text(aes(label = round(mean_ride_length_min,2)), vjust = -0.5) +
-  labs(title = "Mean Ride Length (min) by User Type", y = "Mean Ride Length (min)", x = "User Type") +
+  labs(title = "Mean Ride Length by User Type", y = "Mean Ride Length (minutes)", x = "User Type") +
   ylim(0,85) +
   theme_light()
 
@@ -115,7 +115,7 @@ ggplot(data = Q1_summary, aes(x= usertype, y= mean_ride_length_min, fill = usert
 ggplot(data = Q1_summary, aes(x= usertype, y= group_trips, fill = usertype)) + 
   geom_col() + 
   geom_text(aes(label = scales::comma(group_trips)), vjust = -0.2) +
-  labs(title = "Total Trips (n) by User Type", y = "Total Trips (n)", x = "User Type") +
+  labs(title = "Total Trips by User Type", y = "Total Trips", x = "User Type") +
   scale_y_continuous(labels = comma) +
   theme_light() 
 
@@ -140,7 +140,7 @@ ggplot(data = Q1_summary_by_days, aes(x= usertype, y= mean_ride_length_min, fill
   facet_wrap(~ fct_relevel(day_of_week,
                            "Monday", "Tuesday", "Wednesday", 
                            "Thursday", "Friday", "Saturday", "Sunday"), axes = "all") +
-  labs(title = "Mean Ride Length (min) by User Type, Separated by Day", y = "Mean Ride Length (min)", x = "User Type") +
+  labs(title = "Mean Ride Length by User Type, Separated by Day", y = "Mean Ride Length (minutes)", x = "User Type") +
   scale_y_continuous(expand = expansion(mult = c(0, 0.2)))+
   theme_light()
 
@@ -151,7 +151,7 @@ ggplot(data = Q1_summary_by_days, aes(x= usertype, y= group_trips, fill = userty
    facet_wrap(~ fct_relevel(day_of_week,
                            "Monday", "Tuesday", "Wednesday", 
                            "Thursday", "Friday", "Saturday", "Sunday"), axes = "all") +
-  labs(title = "Total Trips (n) by User Type, Separated by Day", y = "Mean Ride Length (min)", x = "User Type") +
+  labs(title = "Total Trips by User Type, Separated by Day", y = "Mean Ride Length (minutes)", x = "User Type") +
   scale_y_continuous(labels = comma,expand = expansion(mult = c(0, 0.2)))+ 
   theme_light() 
 ```
