@@ -7,6 +7,16 @@ This case study investigates how casual riders and annual subscribers use the Cy
 
 ---
 
+## R Code and Analysis Method
+- Descriptive summary statistics
+- GLM 
+- ANOVA
+
+Analysis Scripts:
+- [Exp1_ROC.Rmd](./Analysis/Exp1_ROC.Rmd)
+
+---
+
 ## Business Problem
 
 The core business problem is to increase profitability by converting casual riders into annual subscribers. My analysis aims to answer: What are the key behavioral differences between casual and annual riders, and how can we leverage these differences to create an effective marketing campaign that drives conversions?
