@@ -27,9 +27,9 @@ To convert casual riders into annual members, we can create a tiered discount pl
 
 Proposed Discount Structure:
 
-   Tier 1: Casual riders who have logged a cumulative ride time of 77 minutes or more in a year are eligible for a 7% discount on a new annual membership.
+* Tier 1: Casual riders who have logged a cumulative ride time of 77 minutes or more in a year are eligible for a 7% discount on a new annual membership.
 
-   Tier 2: To further incentivize long-distance riders, an additional 1% discount can be awarded for every 30 minutes of cumulative ride time beyond the initial 77 minutes, up to a maximum discount of 10%. This cap ensures the profitability of the plan.
+* Tier 2: To further incentivize long-distance riders, an additional 1% discount can be awarded for every 30 minutes of cumulative ride time beyond the initial 77 minutes, up to a maximum discount of 10%. This cap ensures the profitability of the plan.
 
 This campaign is specifically designed to target the most valuable segment of casual riders, especially those who already use the service for longer trips. While casual riders, as a group, take fewer trips than members (average of 71,526 total trips for all casuals vs. 720,313 for all members), this plan focuses on capturing their unique, high-value behavior: the extended ride. Limiting the total number of rides aggregated for a single customer for this campaign (e.g., to a reasonable personal cap) will ensure it remains a program for casuals and not a loophole for members.
 
