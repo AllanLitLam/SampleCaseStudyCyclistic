@@ -13,7 +13,7 @@ This case study investigates how casual riders and annual subscribers use the Cy
 - ANOVA
 
 Analysis Scripts:
-- [Exp1_ROC.Rmd](./Analysis/Exp1_ROC.Rmd)
+- [Cyclistic Bike-Share Case Study.Rmd](./Cyclistic-Bike-Share-Case-Study.Rmd) 
 
 ---
 
