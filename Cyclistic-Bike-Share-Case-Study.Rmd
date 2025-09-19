@@ -100,7 +100,7 @@ Q1_summary = Q1_agg_trimmed %>%
             max_ride_length_min = max(ride_length_min, na.rm = TRUE),
             min_ride_length_min = min(ride_length_min, na.rm = TRUE),
             sd_ride_length_min = sd(ride_length_min, na.rm = TRUE),
-            # find the most frquent week of usage 
+            # find the most frequent week of usage 
             mode_day_of_week = names(sort(table(day_of_week), decreasing = TRUE))[1])
 
 # Bar plot: Mean ride length by user type
