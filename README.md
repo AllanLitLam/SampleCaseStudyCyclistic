@@ -69,13 +69,13 @@ Proposed Discount Structure:
 
 This campaign is specifically designed to target the most valuable segment of casual riders, especially those who already use the service for longer trips. While casual riders, as a group, take fewer trips than members (average of 71,526 total trips for all casuals vs. 720,313 for all members), this plan focuses on capturing their unique, high-value behavior: the extended ride. Limiting the total number of rides aggregated for a single customer for this campaign (e.g., to a reasonable personal cap) will ensure it remains a program for casuals and not a loophole for members. On the other hand, casual riders also tend to use Cyclistic more on weekends compared to weekdays. To maximize the outreach of this campaign, the marketing strategy should prioritize advertising on weekends instead of weekdays.  
 
-- **Pros1:** This campaign targets high-value casual riders who already use Cyclistic frequently and have found value in those purchased trips. They are more likely to be converted to annual members than riders who do not use the app as much. 
+- **Pros:** This campaign targets high-value casual riders who already use Cyclistic frequently and have found value in those purchased trips. They are more likely to be converted to annual members than riders who do not use the app as much. 
 
-- **Cons1:** This program may incentivize existing members to cancel their membership and rejoin later at the discounted rate. This risk could be mitigated by implementing a waiting period for former members to rejoin at a discounted rate or by restricting the campaign to new sign-ups only.
+- **Potential Cons1:** This program may incentivize existing members to cancel their membership and rejoin later at the discounted rate. This risk could be mitigated by implementing a waiting period for former members to rejoin at a discounted rate or by restricting the campaign to new sign-ups only.
 
-- **Cons2:** Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior identified in high-value casual riders. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
+- **Potential Cons2:** Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior identified in high-value casual riders. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
 
-- **Cons3:** Prioritizing weekend-only advertisements may neglect the potential to convert weekday commuters, a population with a consistent need for our service. A/B testing should determine the optimal balance between these two strategies.
+- **Potential Cons3:** Prioritizing weekend-only advertisements may neglect the potential to convert weekday commuters, a population with a consistent need for our service. A/B testing should determine the optimal balance between these two strategies.
 
 ---
 
