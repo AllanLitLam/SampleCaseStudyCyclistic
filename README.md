@@ -23,9 +23,9 @@ The core business problem is to increase profitability by converting casual ride
 
 My analysis revealed two significant behavioral patterns:
 
-1. I found that casual customers ride for a significantly longer average duration (77 minutes) compared to annual subscribers (12 minutes). My analysis using a Gamma regression model confirmed this, showing that being an annual subscriber is associated with a 64% decrease in ride duration,_p_<0.001.
+1. I found that casual customers ride for a significantly longer average duration (77 minutes) compared to annual subscribers (12 minutes). My analysis using a Gamma regression model confirmed this, showing that being an annual subscriber is associated with a 64% decrease in ride duration, _p_<0.001.
    
-2. However, the annual subscribers took significantly more ride trips on average (720,313) than casual customers (71,526). I used a Poisson regression model to confirm this, showing that annual subscribers took about 10.07 times more trips than casual customers,_p_< .001.
+2. However, the annual subscribers took significantly more ride trips on average (720,313) than casual customers (71,526). I used a Poisson regression model to confirm this, showing that annual subscribers took about 10.07 times more trips than casual customers, _p_< .001.
 
 3. Moreover, casual customers also tended to ride for a longer average duration on weekends (Saturday, Sunday) compared to weekdays (Monday - Friday). However, annual members showed consistent ride duration across all days of the week. An ANOVA analysis supported this, revealing an interaction between user type and days of the week on average ride length, _F_(6, 790340) = 876.96, _p_< .001. 
 
