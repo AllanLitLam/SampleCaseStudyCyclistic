@@ -255,11 +255,11 @@ apa_results = sapply(effects, format_APA, table = anova_summary)
 cat("ANOVA reveals several main effects on average ride length \n")
 cat(paste(apa_results, collapse = "\n"))
 
-# Histogram: Distribution of Ride Lengths by User Type
+# Histogram: Distribution of Ride Length by User Type
 ggplot(Q1_agg_trimmed, aes(x = ride_length_min, fill = usertype)) +
   geom_histogram(binwidth = 2, alpha = 0.6, position = "identity") +
   xlim(0, 100) +   # trim extreme rides
-  labs(title = "Distribution of Ride Lengths by User Type",
+  labs(title = "Distribution of Ride Length by User Type",
        x = "Ride Length (minutes)", y = "Count")+ 
   theme_light() 
 
