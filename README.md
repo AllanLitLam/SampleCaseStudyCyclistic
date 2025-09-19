@@ -26,7 +26,7 @@ My analysis revealed two significant behavioral patterns:
 1. I found that casual customers ride for a significantly longer average duration (77 minutes) compared to annual subscribers (12 minutes). My analysis using a Gamma regression model confirmed this, showing that being an annual subscriber is associated with a 64% decrease in ride duration, _p_<0.001.!
 
 <p align="center">
-  <img src="" alt="Mean Ride Length by User Type" width="600"/>
+  <img src="./Plots/Bar-plot-Mean-Ride-Length-by-User-Type.png" alt="Mean Ride Length by User Type" width="600"/>
   <br>
   <em>Figure 1: Mean ride length by user type</em>
 <p align="center">
