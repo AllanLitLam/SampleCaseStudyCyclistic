@@ -30,7 +30,7 @@ My analysis revealed two significant behavioral patterns:
   <br>
   <em>Figure 1: Mean ride length by user type</em>
 <p align="center">
-  <img src="./Plots/Histogram-Distribution-of-Ride-Lengths-by-User-Type.png" alt="Distribution of Ride Length by User Type" width="600"/>
+  <img src="./Plots/Histogram-Distribution-of-Ride-Length-by-User-Type.png" alt="Distribution of Ride Length by User Type" width="600"/>
   <br>
   <em>Figure 2: Distribution of ride length by user type</em>
 </p>
