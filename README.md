@@ -37,7 +37,7 @@ This campaign is specifically designed to target the most valuable segment of ca
 
 - **Cons1:** This program may incentivize existing members to cancel their membership and rejoin later at the discounted rate. This risk could be mitigated by implementing a waiting period for former members to rejoin at a discounted rate or by restricting the campaign to new sign-ups only.
 
-- **Cons2:** Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior we've identified in high-value casuals. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
+- **Cons2:** Although the mean number of trips for all casual riders was 71,526, using this as a per-customer limit is impractical and could be confusing. A better approach would be to focus the campaign solely on ride duration, as this is the core behavior identified in high-value casual riders. Experimentation, possibly through A/B testing, would be crucial to determine the most effective incentive tiers and ensure the program is both profitable and appealing to customers.
 
 ---
 
