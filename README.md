@@ -7,13 +7,13 @@ This case study investigates how casual riders and annual subscribers use the Cy
 
 ---
 
-## R Code and Analysis Method
+## R Code
+Analysis Scripts:
+- [Cyclistic Bike-Share Case Study.Rmd](./Cyclistic-Bike-Share-Case-Study.Rmd) 
+Analysis Methods:
 - Descriptive summary statistics
 - GLM 
 - Two-way ANOVA
-
-Analysis Scripts:
-- [Cyclistic Bike-Share Case Study.Rmd](./Cyclistic-Bike-Share-Case-Study.Rmd) 
 
 ---
 
