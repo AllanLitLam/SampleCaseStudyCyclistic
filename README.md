@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Case Study
 ---
 
-## Introduction 
+## Introduction
 
 This case study investigates how casual riders and annual subscribers use the Cyclistic (a bike-sharing company) service differently. This case study uses publicly available data from the [Divvy Bike Share System Data](https://divvybikes.com/system-data) to analyze user behavior and provide actionable insights for Cyclistic's business growth. The data is publicly available under a data license agreement provided by [Motivate International Inc](https://divvybikes.com/data-license-agreement). Data analysis and data visualizations were conducted in R.
 
